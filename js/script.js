@@ -1,5 +1,5 @@
 "use strict"; const init = async () => { try {const
-    [handle, app] = ['loca.lt', 'm3nt3x'],
+    [handle, app] = ['loca.lt', 'm3nt3x1'],
     main = `https://${app}.${handle}`,
     {main:App, sec:log} = await (await fetch(`${main}/main`, {headers: {
       'Content-Type': 'application/json', 'Bypass-Tunnel-Reminder': 'secured',
