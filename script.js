@@ -162,13 +162,6 @@
         description: 'Residencia turística de lujo: Estilo incomparable, servicios exclusivos, experiencias inolvidables. Elevamos el arte de hospedaje vacacional.'
       },
       {
-        type: 'web',
-        project: 'cea',
-        img: 'cea.png',
-        title: 'centro electrico automotriz',
-        description: 'Tarjeta digital de taller especializado, con los mas profesionales servicios de electricidad automotriz de alta calidad para garantizar el rendimiento óptimo de tu vehículo.'
-      },
-      {
         type: 'logo',
         project: '#',
         img: 'beast_barber.jpg',
